@@ -65,7 +65,7 @@ Manager and squad insights: Impact of managers on performance, player distributi
 
 5. Key Skills Demonstrated
 
-✔ Data Cleaning & Processing (removing inconsistencies, handling missing data).
-✔ Database Normalization & Relational Schema Design.
-✔ Writing advanced SQL queries for performance analysis and insights.
-✔ Sports Analytics using SQL.
+ Data Cleaning & Processing (removing inconsistencies, handling missing data).
+ Database Normalization & Relational Schema Design.
+ Writing advanced SQL queries for performance analysis and insights.
+ Sports Analytics using SQL.
